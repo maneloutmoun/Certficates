@@ -1,4 +1,6 @@
 # Certfificates: 🏅
- This repository contains my certificates related to computer science and networking.
+This repository contains my certificates from different areas of technology and computer science.
 # Current certificates:
- ⏳ Work in progress... new certificates loading!
+- Cisco Networking Basics
+  
+ - ⏳ Work in progress... More certificates are on the way!
